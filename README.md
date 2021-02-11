@@ -28,7 +28,7 @@
 续费：苹果 iTunes 账户会再到期前24小时内扣费，扣费成功后服务有效期自动顺延一个周期；
 取消续订：若需取消自动续订，请在到期前24小时内，前往您的iOS设备的“设置-iTunes/AppleID设置”中关闭相关订阅，关闭后不再扣费。
 3，终身会员
-30元获即可一次性获得终身会员，终身免费计算器Pro提供的所有服务和更新。
+30元获即可一次性获得终身会员，终身免费计算器Pro提供的所有服务和更新
 
 subscription instructions:
 —1 subscription option to choose from. Our standard subscription options are：
