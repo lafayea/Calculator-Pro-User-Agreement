@@ -59,4 +59,4 @@ Subscribe for 1 month / 1year
 
 — For more information,please refer to our“Privacy Agreement” and “Menber Service Agreement”.
 
-Privacy Agreement:https://github.com/lafayea/Privacy-Policy/blob/master/README.md
+Privacy Agreement:https://github.com/lafayea/Privacy-Policy
